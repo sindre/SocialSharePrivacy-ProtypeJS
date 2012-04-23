@@ -19,7 +19,7 @@ Then call the socialSharePrivacy function, when the page was loaded:
 		});
 	});
 
-You can also pass options to the plugin (for more details, see http://www.heise.de/extras/socialshareprivacy/):
+You can also pass options to the plugin (for more details, see http://www.heise.de/extras/socialshareprivacy/ ):
     
 	socialSharePrivacy.init({
 		'id':'socialshareprivacy', // Element ID
